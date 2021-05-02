@@ -15,8 +15,8 @@
   <a href="#license">License</a>
 </p>
 
+![Demo](https://raw.githubusercontent.com/tuwaiq-dotnet/paint-drw/main/demo.gif)
 
-<!-- demo goes here  -->
 ## Key Features
 
 - Draw various shapes with the ability to customize and edit.
