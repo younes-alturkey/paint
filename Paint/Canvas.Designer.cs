@@ -29,6 +29,7 @@ namespace Paint
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Canvas));
             this.designBtn = new System.Windows.Forms.Button();
             this.sourceBtn = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
@@ -809,6 +810,7 @@ namespace Paint
             this.Controls.Add(this.designBtn);
             this.DoubleBuffered = true;
             this.Font = new System.Drawing.Font("Courier New", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(1);
             this.Name = "Canvas";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
