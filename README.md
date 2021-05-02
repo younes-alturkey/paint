@@ -52,7 +52,7 @@ Note: the program is in alpha version as of now. Use with caution.
 
 ## License
 
-[MIT](https://github.com/tuwaiq-dotnet/json-parser/blob/main/LICENSE.md)
+[MIT](https://github.com/tuwaiq-dotnet/paint-drw/blob/main/LICENSE.md)
 
 ## Developers
 
