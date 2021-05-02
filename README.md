@@ -15,7 +15,9 @@
   <a href="#license">License</a>
 </p>
 
-![Demo](https://raw.githubusercontent.com/tuwaiq-dotnet/paint-drw/main/demo.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tuwaiq-dotnet/paint-drw/main/demo.gif" alt="demo"/>
+</p>
 
 ## Key Features
 
