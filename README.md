@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tuwaiq-dotnet/paint-drw/main/demo.gif" alt="demo"/>
+  <img src="https://raw.githubusercontent.com/younes-alturkey/paint/main/demo.gif" alt="demo"/>
 </p>
 
 ## Key Features
