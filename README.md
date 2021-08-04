@@ -54,13 +54,13 @@ Note: the program is in alpha version as of now. Use with caution.
 
 [MIT](https://github.com/tuwaiq-dotnet/paint-drw/blob/main/LICENSE.md)
 
-## Developers
+## Developers at Tuwaiq .NET Bootcamp
+
+> GitHub [@younes-alturkey](https://github.com/younes-alturkey) &nbsp;&middot;&nbsp;
+> Website [younesalturkey.sa](https://younesalturkey.sa) &nbsp;&nbsp;
 
 > GitHub [@AWManeea](https://github.com/AWManeea) &nbsp;&nbsp;
 
 > GitHub [@anas-alhmoud](https://github.com/anas-alhmoud) &nbsp;&nbsp;
 
 > GitHub [@FaisalAlsagri](https://github.com/FaisalAlsagri) &nbsp;&nbsp;
-
-> GitHub [@younes-alturkey](https://github.com/younes-alturkey) &nbsp;&middot;&nbsp;
-> Website [younesalturkey.sa](https://younesalturkey.sa) &nbsp;&nbsp;
